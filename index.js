@@ -27,4 +27,4 @@ switch(expression) {
             break;
 }
 
-bot.login("NzAwNDk1NTk3NTI1OTI1ODk5.XpjxYg.ln9LvER0_KlfRXqjsaZlwqOgysk");
+bot.login("NzAwNDk1NTk3NTI1OTI1ODk5.XpkNgw.m7KsEWpK2JMPX0Uq8MopOzyMxUM");
